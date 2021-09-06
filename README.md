@@ -72,3 +72,10 @@ Enterで実行が始まります。フォロワーが多いと時間がかかり
 と出るので、任意のファイル名を入力してエンターを押すと、
 ファイル名.csvのファイルが吐き出されます。
 あとはこれをgoogleスプレッドシートにインポートするとかして、うまく活用してください！
+
+## 参考文献
+[PythonでTwitterのタイムラインを取得する](https://www.pytry3g.com/entry/python-twitter-timeline)
+
+[【Python】Twitterのフォロワー情報の取得方法](https://fresopiya.com/2019/04/05/getfollowerinfo/)
+
+あとはツイッターのAPIを取得して、アクセスキーを取ってくる工程も本当は必要になります。
